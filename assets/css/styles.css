@@ -5,16 +5,20 @@
 
 h1 {
   font-family: "Inter", sans-serif;
+  text-align: center;
 }
 
 p {
   font-family: "DM Sans", sans-serif;
+  font-size: 25px;
 }
 
 h2 {
   font-family: "Inter", sans-serif;
+  font-style: italic;
 }
 
 li {
   font-family: "DM Sans", sans-serif;
+  font-size: 25px;
 }
