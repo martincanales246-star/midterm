@@ -13,16 +13,10 @@ p {
   font-size: 25px;
 }
 
-a {
-  font-family: "DM Sans", sans-serif;
-  font-style: italic;
-  font-size: 25px;
-}
-
 h2 {
   font-family: "Inter", sans-serif;
   font-style: italic;
-  color: magenta;
+  font-color: magenta;
 }
 
 li {
