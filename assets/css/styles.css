@@ -1,6 +1,6 @@
 /* styles.css */
 * {
-  background-color: pastel-blue;
+  background-color: azure;
 }
 
 h1 {
@@ -8,5 +8,13 @@ h1 {
 }
 
 p {
+  font-family: "DM Sans", sans-serif;
+}
+
+h2 {
+  font-family: "Inter", sans-serif;
+}
+
+li {
   font-family: "DM Sans", sans-serif;
 }
